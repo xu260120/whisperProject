@@ -1,0 +1,18 @@
+# WorkBuddy 项目元数据与本地工作约定，不纳入版本控制
+.workbuddy/
+
+# Dart / Flutter 生成物
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.log
+
+# IDE 与编辑器
+.idea/
+.vscode/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
